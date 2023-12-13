@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest"]=self["webpackChunktest"]||[]).push([[609],{3609:function(t,n,e){e.r(n),e.d(n,{default:function(){return f}});var a=e(3396);function s(t,n,e,s,r,u){const c=(0,a.up)("main-masterpage");return(0,a.wg)(),(0,a.j4)(c,null,{default:(0,a.w5)((()=>[(0,a.Uk)(" Contacts ")])),_:1})}var r=e(6088),u={name:"ContactsView",components:{MainMasterpage:r.Z}},c=e(89);const o=(0,c.Z)(u,[["render",s]]);var f=o}}]);
+//# sourceMappingURL=609.a5ecd030.js.map
